@@ -4,6 +4,7 @@ for ex : IN HTML5:
 you do this => !
 so you get this code 
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,12 +17,17 @@ so you get this code
     
 </body>
 </html>
-
+```
 
 2. div>div>p :
 
+```
 <div>
     <div>
         <p></p>
     </div>
 </div>
+```
+
+## Q.2 Diff. b/w LIB. & FrameWork?
+
